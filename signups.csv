@@ -1,0 +1,415 @@
+user_id,email,name,signup_date,plan,country,age,spend,newsletter
+U2067,grace3@example.com,grace,7/23/2025,Pro,DE,43,955 INR,N
+U2109,ada17@example.com,ada,16/09/2025,FREE ,UK,38,581.25,
+U2066,ALICE6@EXAMPLE.COM,alice,2025-09-01,Free,us,42,561.13,
+U2245,margaret42@example.com,margaret,2025-02-02,Team,UK,27,1554 INR,
+U2107,margaret35@example.com,Margaret,08/10/2025,Pro,us,43,1594 INR,yes
+U2033,ada39@example.com,ada,2025-08-17,Pro,US,61,1799 INR,
+U2149,barbara74@example.com,barbara,2025-02-02,FREE ,DE,29,,yes
+U2399,  barbara49@example.com ,Barbara,2025-12-06,Team,UK,30,11.17,
+U2171,guido50@example.com,Guido,6/15/2025,Free,in,30,628.38,false
+U2383,ada10@example.com,ada,03/05/2025,PRO,US,58,551 INR,no
+U2385,linus7@example.com,Linus,20/08/2025,Free,US,34,243.75,
+U2342,katherine73@example.com,Katherine,2025-01-10,team,UK,62,251 INR,
+U2042,alan76@example.com,Alan,1/12/2025,FREE ,in,58,₹314,
+U2229,linus91@example.com,linus,2025-09-21,Free,IN,36,₹1156,N
+U2012,linus90@example.com,Linus,07/11/2025,Team, IN,33,,no
+U2056,katherine40@example.com,Katherine,2025-07-08,Team,IN,21,₹566,false
+U2104,ALAN9@EXAMPLE.COM,Alan,13/11/2025,team, IN,,873.18,yes
+U2127,radia90@example.com,Radia,09/03/2025,team,in,,882.13,false
+U2193,linus72@example.com,linus,13/05/2025,team,de,27,310.46,N
+U2327,barbara31@example.com,barbara,7/11/2025,FREE , IN,18,₹859,
+U2166,guido57@example.com,guido,2025-06-27,team,US,,1016.80,N
+U2027,radia29@example.com,Radia,2025-01-09,FREE ,us,320,1436.17,Y
+U2298,grace97@example.com,Grace,15 Jan 2025,Pro,de,40,,yes
+U2174,  GUIDO77@EXAMPLE.COM ,Guido,11/24/2025,Team,de,48,₹604,N
+U2289,ada52@example.com,ada,2025-12-14,Pro,in,58,798 INR,yes
+U2336,ada10@example.com,Ada,2025-09-22,Free,IN,50,352.87,N
+U2222,margaret82@example.com,margaret,20/02/2025,Free,in,17,761 INR,no
+U2373,radia68@example.com,Radia,24/02/2025,Free,DE,,827 INR,N
+U2207,barbara53@example.com,Barbara,15 Nov 2025,PRO,uk,20,843.13,no
+U2288,grace87@example.com,grace,20/07/2025,Free,de,38,₹944,N
+U2115,katherine66@example.com,katherine,01/02/2025,Team,de,56,1026.21,false
+U2139,ada7@example.com,Ada,12 Feb 2025,Team,DE,27,387.63,N
+U2202,grace48@example.com,grace,2025-03-22,Team,DE,18,1162.16,N
+U2345,linus29@example.com,Linus,2025-06-11,PRO,us,43,595 INR,
+U2338,guido69@example.com,Guido,2025-08-17,free,in,43,552 INR,yes
+U2247,hedy96@example.com,hedy,2025-04-16,Team, IN,46,129.48,N
+U2017,alan12@example.com,Alan,2025-07-14,Pro,DE,,17.42,Y
+U2256,bob93@example.com,bob,05/06/2025,Pro,DE,51,592.69,Y
+U2267,grace18@example.com,grace,14/05/2025,Free,IN,33,269.39,true
+U2352,alice58@example.com,alice,2025-11-13,Free,IN,64,517.94,false
+U2350,radia14@example.com,radia,2025-03-09,free,uk,20,₹688,false
+U2360,radia37@example.com,radia,6/15/2025,Team,UK,38,865.12,N
+U2069,barbara83@example.com,barbara,2025-08-03,free,in,65,₹666,yes
+U2303,alan30@example.com,Alan,2025-02-08,team,uk,199,₹332,
+U2038,alan95@example.com,alan,01/12/2025, pro, IN,22,1418 INR,false
+U2234,alan53@example.com,Alan,19/10/2025,Free,us,43,₹568,true
+U2054,guido47@example.com,Guido,2025-01-25, pro,DE,54,1611.35,
+U2330,guido17@example.com,guido,2025-10-21,Team,uk,67,195.49,
+U2113,bob27@example.com,Bob,2025-12-08,PRO,DE,56,187.71,no
+U2077,bob1@example.com,Bob,2025-10-07,free,us,25,,false
+U2253,barbara72@example.com,barbara,2025-01-09,Pro,in,18,685.41,N
+U2145,grace54@example.com,grace,2025-03-07,Free, IN,26,₹161,yes
+U2323,linus42@example.com,Linus,23/11/2025,free,UK,26,₹369,N
+U2313,barbara79@example.com,barbara,2025-04-18,Free,de,19,479.14,N
+U2259,radia37@example.com,radia,21 Jun 2025,Free,de,320,₹8,true
+U2369,hedy79@example.com,hedy,27/08/2025,free,UK,34,977.22,Y
+U2215,katherine93@example.com,Katherine,6/25/2025,Pro,de,49,400 INR,Y
+U2052,linus39@example.com,Linus,2025-02-26,FREE ,UK,22,590.91,Y
+U2170,alan60@example.com,Alan,10/5/2025,team,IN,40,₹1274,no
+U2116,katherine18@example.com,katherine,2025-03-04,team,UK,52,853.94,true
+U2340,katherine39@example.com,Katherine,2025-12-10,FREE ,de,20,43.82,
+U2343,guido77@example.com,guido,9/4/2025,FREE ,IN,27,₹20,N
+U2194,radia8@example.com,radia,7/5/2025,team,DE,65,₹871,N
+U2043,ALAN2@EXAMPLE.COM,alan,02/08/2025,Free,de,24,1167.72,N
+U2095,katherine4@example.com,katherine,16/05/2025,Team,uk,39,₹300,no
+U2262,margaret68@example.com,margaret,5/20/2025,PRO,uk,48,110 INR,N
+U2005,guido63@example.com,guido,2025-12-28,team, IN,55,₹293,Y
+U2337,alan38@example.com,alan,11/12/2025,Free,DE,68,613.73,yes
+U2120,katherine50@example.com,Katherine,9/18/2025,Pro,DE,69,350.06,N
+U2264,linus11@example.com,linus,15/12/2025,PRO,us,63,1451.73,Y
+U2296,  alan24@example.com ,Alan,25/01/2025,FREE ,in,,,false
+U2384,radia3@example.com,radia,9/20/2025,FREE , IN,,260.11,no
+U2274,linus22@example.com,Linus,2025-11-03,free,UK,37,₹1761,true
+U2306,katherine5@example.com,katherine,23/03/2025,PRO,IN,43,499.97,true
+U2311,bob43@example.com,Bob,2025-03-23,free,US,56,1805.90,
+U2276,  margaret66@example.com ,margaret,2025-08-07, pro,UK,,813.11,yes
+U2065,alan43@example.com,Alan,2/4/2025,free,us,63,150.01,Y
+U2377,grace60@example.com,grace,18 Nov 2025,PRO,IN,34,239.45,false
+U2009,alice80@example.com,alice,23/01/2025,team,DE,70,68.83,yes
+U2117,katherine65@example.com,katherine,04/11/2025,team,uk,59,653.48,true
+U2011,guido84@example.com,guido,11 Nov 2025,free,de,58,1181 INR,no
+U2041,radia25@example.com,radia,9/25/2025,free,de,33,1156.92,false
+U2140,katherine1@example.com,Katherine,2025-06-02,Pro,us,16,₹762,N
+U2361,katherine22@example.com,katherine,14/03/2025,team,UK,57,₹873,N
+U2185,radia21@example.com,Radia,18/11/2025,Pro,us,51,938.63,yes
+U2094,ada56@example.com,Ada,9/11/2025,PRO,uk,31,1253.66,no
+U2290,alice72@example.com,Alice,2025-02-07,Team,in,65,426.09,
+U2132,grace67@example.com,Grace,2025-08-16,Team, IN,49,,Y
+U2263,barbara52@example.com,barbara,8/26/2025,Team, IN,23,,no
+U2353,alice92@example.com,alice,2025-05-19,Free,uk,73,738.36,
+U2314,radia46@example.com,radia,3 Aug 2025, pro,in,57,₹1180,yes
+U2211,katherine15@example.com,katherine,26/06/2025,PRO,DE,70,1228.26,true
+U2226,hedy30@example.com,hedy,2025-03-03,Pro,IN,22,₹35,no
+U2365,barbara78@example.com,barbara,6/15/2025,Team,in,49,₹82,no
+U2387,ada25@example.com,ada,20/08/2025,team, IN,42,392.67,true
+U2044,alan74@example.com,Alan,7/9/2025,free,us,23,597 INR,
+U2300,guido6@example.com,Guido,2025-05-10,Team,us,55,930.64,Y
+U2357,radia4@example.com,Radia,18/10/2025,Pro,DE,62,,Y
+U2061,guido84@example.com,guido,26/05/2025,Free,de,,,Y
+U2280,margaret72@example.com,margaret,2025-02-10,Free,UK,20,901.32,Y
+U2150,barbara93@example.com,Barbara,2025-06-06,free,us,51,₹330,Y
+U2286,barbara60@example.com,Barbara,7/11/2025,team,IN,33,57 INR,yes
+U2118,KATHERINE86@EXAMPLE.COM,katherine,2025-03-11,PRO,uk,24,,no
+U2126,linus12@example.com,Linus,20/12/2025,Pro,DE,27,₹1857,N
+U2004,margaret50@example.com,margaret,2025-08-14,FREE ,IN,40,1850.83,yes
+U2278,grace75@example.com,grace,23/10/2025,Team,IN,61,1331.75,Y
+U2187,bob74@example.com,bob,20/09/2025,Pro, IN,63,,N
+U2025,grace35@example.com,grace,2025-08-24,FREE ,us,68,1112.59,Y
+U2131,radia75@example.com,Radia,2/2/2025,FREE ,uk,,936.82,Y
+U2395,hedy94@example.com,Hedy,2025-05-02,free,UK,32,1914.39,no
+U2206,alice44@example.com,Alice,19/09/2025,PRO,de,62,846 INR,Y
+U2282,barbara41@example.com,Barbara,27/02/2025,Team, IN,72,914 INR,
+U2014,hedy6@example.com,Hedy,20/11/2025,Pro,UK,20,639 INR,N
+U2328,  katherine55@example.com ,Katherine,2 May 2025,Free, IN,20,₹711,false
+U2088,katherine40@example.com,Katherine,11/09/2025,team,DE,26,125 INR,true
+U2201,radia98@example.com,radia,2025-09-02,Free,uk,63,₹156,false
+U2344,  katherine18@example.com ,katherine,22/12/2025,PRO,DE,25,922.19,
+U2281,hedy59@example.com,Hedy,06/08/2025,Pro,de,64,161.15,Y
+U2008,linus97@example.com,Linus,2025-03-10, pro,US,22,795 INR,N
+U2048,barbara74@example.com,Barbara,17 Dec 2025,FREE ,DE,39,827.71,Y
+U2102,alan63@example.com,alan,6 Nov 2025,Team,de,43,732.59,no
+U2231,barbara63@example.com,Barbara,8/25/2025, pro,de,35,₹577,N
+U2134,ada60@example.com,Ada,06/05/2025, pro,us,51,518 INR,no
+U2273,guido66@example.com,Guido,2025-03-19, pro,IN,44,716.69,false
+U2209,linus26@example.com,Linus,2025-08-17, pro,us,18,52.78,false
+U2013,bob97@example.com,bob,2025-07-16,PRO,DE,17,578.37,true
+U2114,barbara93@example.com,Barbara,2025-11-21,Free,US,23,317.89,no
+U2326,alan8@example.com,alan,11/13/2025,team,in,69,736.04,
+U2105,  radia25@example.com ,Radia,05/05/2025,team,DE,58,₹330,false
+U2058,bob17@example.com,bob,2025-08-05,Team, IN,44,7.64,Y
+U2000,alan6@example.com,Alan,2025-11-04,Team,uk,31,₹268,false
+U2332,alan70@example.com,alan,2025-02-03,team,DE,27,₹1454,no
+U2320,barbara60@example.com,barbara,1/28/2025, pro,UK,61,₹4,false
+U2099,alan78@example.com,Alan,2025-03-06,team,uk,74,392.92,Y
+U2049,alice38@example.com,Alice,2025-05-06,free,us,34,₹964,yes
+U2238,katherine33@example.com,Katherine,2025-02-08,PRO,us,,561.72,no
+U2334,alice47@example.com,alice,4/16/2025, pro,DE,,737.49,Y
+U2079,guido37@example.com,Guido,2025-12-06,FREE ,US,19,526.26,true
+U2237,linus95@example.com,linus,2025-09-13,Team,US,26,1153 INR,yes
+U2217,radia4@example.com,Radia,7/7/2025,FREE ,de,40,261.51,false
+U2248,alice88@example.com,alice,2025-10-12,FREE ,us,31,351.25,Y
+U2396,radia56@example.com,Radia,19/02/2025,free,us,27,464.14,no
+U2195,radia85@example.com,Radia,2025-04-13, pro,UK,55,,Y
+U2147,  ada19@example.com ,ada,20/04/2025,Free, IN,73,679 INR,N
+U2180,guido9@example.com,Guido,25/12/2025,free,UK,32,₹252,no
+U2212,linus6@example.com,linus,2025-04-01,Pro,uk,40,112 INR,N
+U2354,grace34@example.com,grace,9/25/2025,Pro,US,31,979 INR,no
+U2339,hedy1@example.com,hedy,09/10/2025,Pro,in,50,372.67,Y
+U2010,bob88@example.com,Bob,2025-12-03,Free,uk,40,50.17,yes
+U2161,hedy31@example.com,hedy,2025-05-09,Team,IN,,112.13,
+U2173,margaret14@example.com,margaret,03/12/2025, pro,de,16,635 INR,yes
+U2322,katherine85@example.com,Katherine,12/12/2025,Pro,IN,55,₹1281,false
+U2220,radia70@example.com,Radia,23 Oct 2025,Team,UK,66,142.11,no
+U2003,KATHERINE17@EXAMPLE.COM,katherine,2025-06-25,free,IN,23,₹218,Y
+U2045,barbara34@example.com,barbara,27/08/2025,Free,UK,72,926.62,false
+U2307,grace82@example.com,grace,23/01/2025,free,in,18,790.86,true
+U2073,ada8@example.com,Ada,1/18/2025,FREE ,US,41,576.67,N
+U2063,linus42@example.com,Linus,2025-07-26,free,IN,,₹1336,
+U2204,alan78@example.com,alan,14/02/2025,FREE ,de,41,597.41,N
+U2356,  margaret14@example.com ,Margaret,06/05/2025,Free,de,24,1901.42,true
+U2119,ada37@example.com,ada,6/4/2025,Team,UK,74,47 INR,no
+U2060,alan43@example.com,Alan,2025-11-02,free,UK,18,225 INR,false
+U2254,  hedy77@example.com ,hedy,2025-04-01,Team,de,32,₹304,Y
+U2233,guido39@example.com,guido,15 Feb 2025, pro,DE,18,654.51,true
+U2392,guido29@example.com,guido,5 Nov 2025,free,US,73,,Y
+U2252,radia22@example.com,Radia,14 Apr 2025,Team,DE,56,1451.35,
+U2181,HEDY48@EXAMPLE.COM,Hedy,16 Jan 2025,Team, IN,43,684.42,true
+U2363,radia75@example.com,Radia,11/9/2025,Free,in,62,1219.82,yes
+U2329,bob98@example.com,Bob,07/09/2025, pro,uk,,668 INR,false
+U2002,linus7@example.com,linus,2025-08-09, pro,us,54,,true
+U2093,ada80@example.com,ada,10/7/2025, pro,IN,37,266 INR,N
+U2225,ada99@example.com,Ada,14/06/2025,Pro,UK,31,342.21,false
+U2213,hedy39@example.com,hedy,07/06/2025,free,us,65,1365 INR,false
+U2087,radia83@example.com,radia,02/06/2025, pro,us,54,₹1202,true
+U2097,guido70@example.com,Guido,2025-10-07,Pro,uk,27,1098.11,false
+U2086,alice28@example.com,alice,2025-11-21, pro,uk,,1311.74,yes
+U2188,hedy14@example.com,hedy,2025-09-08,FREE ,US,53,750.49,false
+U2024,grace55@example.com,Grace,2025-12-06, pro,US,44,1979 INR,Y
+U2390,margaret32@example.com,Margaret,3/13/2025,PRO,US,27,₹322,true
+U2031,radia88@example.com,radia,2025-05-26,PRO,IN,34,410.55,true
+U2268,ada47@example.com,ada,03/04/2025,Team, IN,21,813 INR,
+U2103,katherine63@example.com,Katherine,07/11/2025,free,de,,₹362,N
+U2244,hedy90@example.com,hedy,13/08/2025,PRO,UK,39,850 INR,false
+U2271,bob60@example.com,bob,2025-04-19,team,IN,67,,yes
+U2293,LINUS40@EXAMPLE.COM,linus,14 Jan 2025, pro,uk,27,1004.52,false
+U2130,GUIDO37@EXAMPLE.COM,guido,2025-05-09,FREE ,DE,72,₹555,N
+U2397,RADIA91@EXAMPLE.COM,radia,05/08/2025,PRO,DE,30,529.10,no
+U2251,katherine78@example.com,Katherine,8/6/2025,FREE ,uk,53,193.28,N
+U2189,guido76@example.com,Guido,10/24/2025, pro,de,44,942.29,no
+U2381,grace17@example.com,grace,2025-06-10,Free,DE,35,722 INR,no
+U2197,katherine88@example.com,Katherine,2025-04-02,team,IN,50,287.97,no
+U2292,ada62@example.com,Ada,6 Jul 2025,free,US,71,874 INR,true
+U2214,barbara16@example.com,barbara,2025-06-05,team,de,22,716.10,false
+U2135,hedy31@example.com,hedy,04/06/2025,team,in,40,406.86,N
+U2156,  katherine5@example.com ,katherine,2025-04-07,Pro,uk,57,65.42,Y
+U2250,hedy1@example.com,hedy,20/08/2025,Team,in,,₹271,N
+U2164,MARGARET73@EXAMPLE.COM,margaret,2025-06-14,Free,us,24,938 INR,no
+U2258,katherine88@example.com,katherine,12/6/2025,free,in,51,1553.10,N
+U2225,ada99@example.com,Ada,14/06/2025,Pro,UK,31,342.21,false
+U2159,  guido32@example.com ,Guido,13 Jan 2025, pro,in,22,486 INR,yes
+U2283,margaret91@example.com,margaret,2025-09-17,Free,UK,40,665.93,no
+U2029,  bob2@example.com ,Bob,23/11/2025,Pro,IN,44,₹89,N
+U2235,barbara43@example.com,Barbara,23/08/2025,Team,DE,35,391.90,Y
+U2321,ada27@example.com,Ada,2025-05-24,FREE ,us,27,1447.91,N
+U2106,grace1@example.com,Grace,2025-11-13,FREE ,de,38,,N
+U2371,grace18@example.com,Grace,2025-06-06,Team,us,44,1869.99,yes
+U2295,alice38@example.com,Alice,15/06/2025,PRO,uk,48,,yes
+U2198,linus62@example.com,Linus,11/8/2025,PRO,in,17,269 INR,true
+U2284,alice38@example.com,Alice,7/17/2025,free,UK,47,1284 INR,
+U2096,guido49@example.com,Guido,21 May 2025,Team,DE,16,1284 INR,true
+U2218,alan96@example.com,alan,14/06/2025,team,in,62,,no
+U2301,alice98@example.com,alice,04/12/2025,team,UK,31,1239.48,N
+U2090,margaret56@example.com,margaret,26/10/2025,team,IN,54,703.81,N
+U2325,grace9@example.com,grace,2025-06-08,Pro,de,60,888.84,no
+U2175,  RADIA13@EXAMPLE.COM ,radia,2025-10-14,Pro, IN,31,538.61,true
+U2241,hedy73@example.com,hedy,2025-02-13,PRO,uk,67,1225 INR,Y
+U2331,linus18@example.com,linus,26/01/2025,FREE ,de,53,₹923,
+U2274,linus22@example.com,Linus,2025-11-03,free,UK,37,₹1761,true
+U2257,bob64@example.com,Bob,2025-04-09,team,DE,31,614.36,N
+U2027,radia29@example.com,Radia,2025-01-09,FREE ,us,320,1436.17,Y
+U2092,radia5@example.com,radia,2025-08-09,free,in,71,626.52,no
+U2101,alice38@example.com,alice,21/10/2025,FREE ,UK,18,702 INR,yes
+U2208,katherine56@example.com,Katherine,2025-04-24,free,IN,27,1102 INR,Y
+U2367,margaret96@example.com,Margaret,22/08/2025, pro,in,32,₹958,false
+U2355,alan45@example.com,alan,09/05/2025,team,us,39,₹1024,true
+U2076,ada93@example.com,Ada,2025-03-24,free,DE,16,1547.99,N
+U2072,guido13@example.com,guido,1/20/2025, pro,us,58,₹657,false
+U2308,guido4@example.com,Guido,2025-04-12,Pro,DE,34,643.41,false
+U2219,radia56@example.com,radia,2025-12-11,free,IN,63,786.98,true
+U2000,alan6@example.com,Alan,2025-11-04,Team,uk,31,₹268,false
+U2007,grace32@example.com,Grace,2025-12-01,free,UK,68,192.51,
+U2335,hedy20@example.com,hedy,11/12/2025, pro,UK,56,₹1380,
+U2036,grace1@example.com,grace,27/08/2025,Team,UK,22,255 INR,Y
+U2051,katherine91@example.com,katherine,4/9/2025,FREE , IN,69,220 INR,N
+U2362,margaret66@example.com,Margaret,17/09/2025, pro,US,74,1559.43,no
+U2068,alan28@example.com,Alan,26/05/2025,Free,US,30,₹18,no
+U2269,bob99@example.com,bob,20 Nov 2025,PRO,IN,36,1119.93,no
+U2380,linus81@example.com,Linus,2025-06-02,FREE ,us,23,555.82,yes
+U2341,bob95@example.com,Bob,2025-09-14,team,DE,17,201.10,no
+U2024,grace55@example.com,Grace,2025-12-06, pro,US,44,1979 INR,Y
+U2062,barbara64@example.com,Barbara,11/4/2025,FREE ,in,59,223.09,no
+U2082,margaret92@example.com,Margaret,2025-11-03,free,uk,38,₹354,N
+U2084,alan42@example.com,alan,2025-02-09,Pro,uk,46,₹1032,false
+U2100,MARGARET67@EXAMPLE.COM,Margaret,02/01/2025,Pro, IN,54,₹178,
+U2299,alice13@example.com,alice,2025-09-16,FREE ,uk,,₹1557,false
+U2078,katherine52@example.com,katherine,2025-06-01,PRO,de,65,926 INR,Y
+U2028,grace61@example.com,Grace,2025-09-02,free,de,63,714.35,Y
+U2309,alice39@example.com,Alice,2025-12-27,free,de,52,₹26,Y
+U2199,alan71@example.com,Alan,6/23/2025,Free, IN,44,284.37,true
+U2080,alan77@example.com,alan,2025-12-12,team,de,,614 INR,false
+U2359,guido58@example.com,guido,2025-12-10,free,us,45,428 INR,false
+U2304,barbara42@example.com,Barbara,2025-02-28,Free,us,52,₹339,false
+U2190,grace1@example.com,Grace,2025-12-21,FREE ,de,60,1116 INR,no
+U2324,hedy61@example.com,hedy,2025-09-07, pro,DE,57,767 INR,true
+U2224,  katherine22@example.com ,katherine,11/22/2025,Pro,us,40,680.89,true
+U2037,barbara96@example.com,Barbara,9/8/2025,PRO, IN,-5,18.09,Y
+U2163,linus68@example.com,linus,22/06/2025,FREE ,in,60,694 INR,Y
+U2297,grace57@example.com,Grace,2025-11-04, pro,uk,72,348.25,false
+U2057,  alan93@example.com ,Alan,08/01/2025,free,US,16,₹1758,
+U2291,margaret91@example.com,margaret,2025-05-21, pro,us,38,528.44,yes
+U2001,margaret68@example.com,margaret,2025-12-16,Team,US,66,39 INR,yes
+U2312,ada39@example.com,Ada,23 Oct 2025,Free,uk,16,₹865,Y
+U2239,grace80@example.com,Grace,6/1/2025,Free,DE,40,330.45,Y
+U2270,linus63@example.com,linus,16/02/2025,Free,us,72,259 INR,no
+U2111,linus75@example.com,Linus,20/12/2025, pro,US,48,,
+U2178,barbara65@example.com,Barbara,1/16/2025,Team,de,73,286 INR,no
+U2210,bob9@example.com,bob,10/20/2025,Free,uk,36,264.97,Y
+U2158,GRACE12@EXAMPLE.COM,Grace,19/11/2025,Pro,UK,199,₹569,true
+U2393,ada3@example.com,Ada,2025-04-04, pro,us,42,700.31,no
+U2020,linus62@example.com,Linus,06/08/2025,PRO,de,38,1222.89,
+U2200,hedy82@example.com,Hedy,20/07/2025,PRO,us,,1668.24,N
+U2133,guido31@example.com,guido,2025-09-15,PRO,us,56,866 INR,false
+U2333,ada86@example.com,ada,2025-11-02,free,us,,283 INR,Y
+U2182,  ada51@example.com ,Ada,2025-06-27,Pro,uk,35,314.28,yes
+U2243,alan17@example.com,alan,03/03/2025,Team,de,17,170.12,Y
+U2021,katherine28@example.com,Katherine,27/11/2025,PRO,IN,37,955.28,no
+U2176,  guido86@example.com ,guido,11/4/2025,Pro,UK,33,1581 INR,false
+U2372,radia4@example.com,radia,2/14/2025,FREE ,DE,30,,no
+U2018,barbara30@example.com,Barbara,26/04/2025,Free,us,30,439 INR,false
+U2016,alan32@example.com,Alan,2025-04-06,free,uk,58,34.86,no
+U2183,hedy60@example.com,Hedy,2025-01-25,free,in,63,₹381,true
+U2030,bob65@example.com,Bob,6/23/2025,FREE , IN,46,916 INR,false
+U2046,hedy10@example.com,Hedy,04/04/2025,PRO,DE,,90.03,
+U2172,guido37@example.com,Guido,2025-10-12,Free,UK,43,276.35,
+U2310,margaret19@example.com,Margaret,2025-03-19,PRO,UK,70,₹856,false
+U2305,margaret55@example.com,Margaret,5/19/2025,FREE , IN,,61.62,true
+U2228,guido40@example.com,Guido,2025-09-09,team,US,29,,false
+U2302,hedy95@example.com,Hedy,08/09/2025, pro,de,59,₹319,no
+U2064,radia74@example.com,radia,2025-05-09, pro,UK,26,15.22,false
+U2255,alice63@example.com,Alice,2025-12-09, pro,IN,,126 INR,N
+U2325,grace9@example.com,grace,2025-06-08,Pro,de,60,888.84,no
+U2148,linus17@example.com,linus,17/04/2025,FREE ,uk,67,₹776,false
+U2124,barbara2@example.com,barbara,9/11/2025,Team,UK,47,₹643,Y
+U2382,ALAN74@EXAMPLE.COM,Alan,2025-01-18,Free,in,39,827.14,false
+U2053,bob70@example.com,Bob,2025-06-18, pro,IN,74,₹633,N
+U2376,alice73@example.com,Alice,3/12/2025,FREE ,in,34,1242.76,
+U2221,margaret64@example.com,margaret,5 Jul 2025,PRO,uk,,211 INR,N
+U2136,linus69@example.com,Linus,1 Aug 2025,team,us,49,,true
+U2157,bob24@example.com,bob,23/04/2025, pro,in,62,285 INR,false
+U2246,  ada11@example.com ,ada,1/9/2025,FREE ,us,18,425.65,true
+U2110,ada56@example.com,Ada,2025-02-16,Pro,de,20,1003.76,
+U2261,katherine74@example.com,Katherine,2025-11-04,Free,de,22,₹570,yes
+U2287,barbara26@example.com,barbara,2025-08-07,free,de,70,₹1185,
+U2113,bob27@example.com,Bob,2025-12-08,PRO,DE,56,187.71,no
+U2022,hedy43@example.com,Hedy,2025-02-17, pro,uk,65,980 INR,yes
+U2125,radia83@example.com,radia,13 Aug 2025,FREE ,UK,41,193.25,yes
+U2366,alice49@example.com,Alice,2025-04-09, pro,IN,20,648.01,Y
+U2192,alan25@example.com,Alan,8 Apr 2025,Free,in,49,715 INR,
+U2168,alan5@example.com,alan,4/2/2025,FREE ,IN,71,172 INR,true
+U2085,hedy81@example.com,Hedy,28/07/2025,Free,in,56,₹543,true
+U2196,bob34@example.com,Bob,5/17/2025,FREE ,UK,39,₹364,Y
+U2091,alan34@example.com,alan,2025-02-24,Free,DE,71,305 INR,
+U2071,guido64@example.com,guido,3/14/2025,free, IN,68,₹916,false
+U2070,  LINUS94@EXAMPLE.COM ,Linus,14 Sep 2025,Free,UK,37,22.80,true
+U2351,guido26@example.com,guido,8/17/2025,Pro,de,23,₹156,true
+U2152,katherine65@example.com,Katherine,2025-02-08,free,de,62,806.94,false
+U2089,  hedy45@example.com ,Hedy,10/21/2025,Free,us,22,127.44,N
+U2035,katherine50@example.com,Katherine,2025-03-11, pro,UK,34,563.51,
+U2184,alan90@example.com,alan,16/08/2025,Team,uk,61,81.36,Y
+U2394,radia15@example.com,radia,2025-05-27,Pro,IN,59,482.95,
+U2249,alice79@example.com,alice,2025-01-09,Team,IN,63,₹525,N
+U2347,alice84@example.com,alice,14/03/2025,team,UK,20,631 INR,Y
+U2162,hedy37@example.com,hedy,2025-12-23,team,IN,61,,
+U2055,linus31@example.com,linus,2025-10-22,FREE ,us,,1580.09,no
+U2155,radia48@example.com,Radia,2025-10-02,FREE ,UK,23,173 INR,no
+U2142,ALAN86@EXAMPLE.COM,alan,2025-07-05,Pro,IN,55,437.69,false
+U2279,guido1@example.com,guido,2025-04-05, pro,UK,26,₹1846,Y
+U2002,linus7@example.com,linus,2025-08-09, pro,us,54,,true
+U2378,linus64@example.com,Linus,2025-11-24,team,de,46,₹919,Y
+U2006,katherine8@example.com,Katherine,13/11/2025,PRO,de,49,448.60,N
+U2318,margaret15@example.com,Margaret,6/24/2025, pro,UK,27,523.91,
+U2083,radia77@example.com,Radia,09/11/2025,Pro,de,23,763.42,no
+U2205,barbara41@example.com,barbara,2025-05-15, pro,DE,36,725 INR,N
+U2169,bob87@example.com,Bob,2025-07-22,team,IN,44,127.67,true
+U2244,hedy90@example.com,hedy,13/08/2025,PRO,UK,39,850 INR,false
+U2227,guido73@example.com,Guido,3/5/2025,PRO,UK,43,1720.82,N
+U2275,katherine12@example.com,katherine,15/09/2025,team,IN,69,269.61,Y
+U2191,alice16@example.com,Alice,24/09/2025, pro,uk,69,235 INR,
+U2040,grace21@example.com,grace,2025-05-23,Team,de,72,239.58,
+U2112,ada40@example.com,Ada,2025-07-07, pro,de,55,,true
+U2137,grace6@example.com,grace,2025-07-04,PRO, IN,,1035 INR,
+U2034,alice83@example.com,Alice,6/20/2025, pro,IN,,525 INR,yes
+U2216,GUIDO30@EXAMPLE.COM,guido,10 Oct 2025,Pro,IN,59,1056.00,yes
+U2138,radia97@example.com,Radia,12/05/2025,Team,DE,67,1365.10,Y
+U2143,margaret75@example.com,Margaret,2025-06-04,team,US,0,692.84,yes
+U2050,grace81@example.com,Grace,11/07/2025,Team,US,20,560 INR,false
+U2215,katherine93@example.com,Katherine,6/25/2025,Pro,de,49,400 INR,Y
+U2277,hedy91@example.com,Hedy,2025-10-19, pro, IN,53,887.67,
+U2121,radia29@example.com,radia,15 Oct 2025, pro,US,62,134.97,true
+U2358,radia50@example.com,radia,2025-05-20,free,in,37,1230 INR,Y
+U2389,grace34@example.com,grace,2025-11-25,Team,IN,57,₹780,Y
+U2272,radia1@example.com,radia,7/20/2025,free,us,58,643 INR,Y
+U2398,bob66@example.com,Bob,8/7/2025,FREE ,US,57,39.25,true
+U2125,radia83@example.com,radia,13 Aug 2025,FREE ,UK,41,193.25,yes
+U2098,bob1@example.com,bob,27/09/2025,PRO,us,41,1270.59,yes
+U2153,barbara62@example.com,Barbara,1/28/2025,Free,in,46,984 INR,Y
+U2386,radia78@example.com,Radia,2025-08-08,Free,de,27,275.80,no
+U2023,alice64@example.com,alice,23/11/2025,Team,uk,72,43.14,true
+U2368,margaret11@example.com,margaret,3/24/2025, pro,us,,476.03,N
+U2032,linus85@example.com,Linus,17 Dec 2025,PRO,de,58,₹870,false
+U2240,alice14@example.com,Alice,2025-04-07,Team,in,60,86.82,true
+U2011,guido84@example.com,guido,11 Nov 2025,free,de,58,1181 INR,no
+U2232,RADIA5@EXAMPLE.COM,radia,08/12/2025,free,DE,52,29.68,false
+U2265,guido12@example.com,guido,18/11/2025, pro,uk,0,540 INR,false
+U2236,BOB9@EXAMPLE.COM,Bob,2025-09-19,Team,uk,38,1084 INR,true
+U2230,linus59@example.com,Linus,9/22/2025,team,US,47,764.90,N
+U2081,KATHERINE62@EXAMPLE.COM,katherine,2025-10-18,free,UK,37,235.83,no
+U2179,bob47@example.com,bob,2025-06-10,team,us,,671.80,
+U2047,radia70@example.com,Radia,27/08/2025,team,DE,,373 INR,N
+U2188,hedy14@example.com,hedy,2025-09-08,FREE ,US,53,750.49,false
+U2075,barbara71@example.com,barbara,10 Mar 2025,Free,in,21,2490.75,no
+U2316,margaret25@example.com,Margaret,3/13/2025,PRO,UK,33,₹361,false
+U2348,alice47@example.com,Alice,13/09/2025, pro,de,54,449 INR,Y
+U2160,barbara9@example.com,Barbara,2025-08-02,free,de,66,473.29,Y
+U2223,katherine11@example.com,Katherine,10/26/2025,Free,DE,62,655.26,true
+U2285,margaret1@example.com,margaret,01/04/2025,PRO,IN,52,899.76,Y
+U2388,hedy24@example.com,hedy,2025-09-05,PRO,us,52,189.45,
+U2317,katherine65@example.com,katherine,2025-04-27,PRO,de,45,878.34,
+U2108,hedy88@example.com,Hedy,2025-09-26,team,DE,22,1698.57,false
+U2165,radia36@example.com,radia,2025-04-09,FREE ,US,45,840.51,N
+U2128,linus90@example.com,linus,2025-10-26,Pro,de,43,790.79,false
+U2266,barbara5@example.com,Barbara,3/23/2025,FREE ,de,31,465.68,
+U2141,margaret55@example.com,margaret,6/8/2025, pro,IN,,470.93,N
+U2015,ada59@example.com,Ada,2/17/2025, pro,IN,71,765.99,Y
+U2242,bob29@example.com,bob,24 Apr 2025, pro,US,,599.35,no
+U2039,ada11@example.com,Ada,4/28/2025,Team,US,44,₹745,Y
+U2374,LINUS41@EXAMPLE.COM,Linus,2025-12-18,Pro,UK,,812.83,Y
+U2167,alan38@example.com,alan,2025-12-03,PRO,uk,31,0.32,
+U2319,ada30@example.com,ada,2025-03-10,Pro,uk,62,89.14,N
+U2315,HEDY78@EXAMPLE.COM,Hedy,2025-08-15,free,DE,59,829.61,yes
+U2203,linus40@example.com,Linus,03/05/2025,free,DE,17,₹33,Y
+U2123,alice89@example.com,Alice,2025-08-18,Free,DE,33,920 INR,yes
+U2144,guido17@example.com,Guido,01/10/2025,PRO,uk,33,1394 INR,
+U2391,grace62@example.com,Grace,2025-07-08,Team,DE,66,275.09,no
+U2154,alan49@example.com,Alan,2025-04-23,Pro,IN,62,939.17,N
+U2059,grace52@example.com,Grace,02/05/2025,Free, IN,31,₹677,true
+U2294,katherine27@example.com,Katherine,12/8/2025,team,UK,33,1037.27,yes
+U2375,grace22@example.com,Grace,2025-03-20,Free,UK,29,249.66,false
+U2074,bob39@example.com,bob,01/01/2025,FREE ,IN,,838 INR,N
+U2186,linus9@example.com,linus,2025-08-11,Free,de,16,730.91,
+U2177,bob96@example.com,bob,22/09/2025,FREE ,DE,33,₹299,true
+U2260,  alan85@example.com ,Alan,06/11/2025,Team,IN,62,,no
+U2370,alice94@example.com,Alice,2025-09-20,Pro,de,32,₹1828,false
+U2346,RADIA52@EXAMPLE.COM,Radia,22/02/2025, pro,de,67,183.24,no
+U2019,radia31@example.com,radia,2025-06-08,Free,US,,523.10,yes
+U2364,guido20@example.com,Guido,2025-11-11,PRO,IN,37,₹780,no
+U2026,radia64@example.com,radia,2025-07-04, pro,us,21,570 INR,false
+U2129,katherine4@example.com,Katherine,2025-06-23,free,UK,,1787.18,
+U2122,alice34@example.com,Alice,01/05/2025,Free,US,22,1510.28,no
+U2009,alice80@example.com,alice,23/01/2025,team,DE,70,68.83,yes
+U2151,linus29@example.com,linus,1 Sep 2025,FREE ,US,57,88.83,N
+U2146,katherine93@example.com,katherine,4/27/2025,Team,UK,32,,yes
+U2349,katherine99@example.com,Katherine,2025-06-11,PRO,UK,65,₹284,true
+U2379,linus13@example.com,linus,09/04/2025,Team,uk,199,₹1433,N
